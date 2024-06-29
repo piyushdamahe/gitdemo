@@ -1,3 +1,4 @@
 # gitdemo
-This is my first repository
-Author-Piyush Damahe
+This is my first repository.
+<br>
+Author - Piyush Damahe
